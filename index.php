@@ -22,7 +22,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     </head> 
     <body>
       <div class="header">
-       <h1> API CARDONES|HILADO </h1>
+       <h2> API CARDONES|HILADO </h2>
       </div>
 
       <div class="navbar">
